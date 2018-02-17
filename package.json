@@ -1,6 +1,6 @@
 {
   "name": "react-cms-uploads",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -23,8 +23,11 @@
     "graphql": "^0.12.3",
     "graphql-tag": "^2.7.3",
     "object-assign": "^4.1.1",
+    "promises-all": "^1.0.0",
     "prop-types": "^15.6.0",
-    "react-apollo": "^2.0.4"
+    "react-apollo": "^2.0.4",
+    "sharp": "^0.19.0",
+    "shortid": "^2.2.8"
   },
   "peerDependencies": {
     "react": "16.x"
